@@ -2,7 +2,7 @@ package BasicSection7onwards;
 
 import org.testng.annotations.Test;
 
-public class devleopBranch {
+public class GitBranchFromGitStuff {
 	@Test
 	public void testCase()
 	{
