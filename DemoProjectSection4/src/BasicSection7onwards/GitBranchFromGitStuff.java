@@ -6,7 +6,7 @@ public class GitBranchFromGitStuff {
 	@Test
 	public void testCase()
 	{
-		System.out.println("I am in develop branch ");
+		System.out.println("I am making changes in gitStuff ");
 		
 	}
 
